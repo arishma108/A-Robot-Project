@@ -2,7 +2,7 @@
 Build a mail-delivery robot picking up and dropping off parcels.
 
 # Meadowfield
-The village of Meadowfield isn’t very big. It consists of 11 places with 14 roads between them. The network of roads in the village forms a graph. The graph will be a collection of points (places in the village) with lines between them (roads). This graph will be the world that our robot moves through. We’re interested in is the destinations that we can reach from a given place. 
+The village of Meadowfield isn’t very big. It consists of 11 places with 14 roads between them. The network of roads in the village forms a graph. The graph will be a collection of points (places in the village) with lines between them (roads). This graph will be the world that our robot moves through. We’re interested in the destinations that we can reach from a given place. 
 
 # The task
 Our robot will be moving around the village. There are parcels in various places, each addressed to some other place. The robot picks up parcels when it comes to them and delivers them when it arrives at their destinations.
